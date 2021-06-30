@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="stu.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+    <script-file value="3071e13a-a1ab-411b-859d-f806e885ab7b/schema/student/table/stu.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="3071e13a-a1ab-411b-859d-f806e885ab7b" />
+    <method v="2" />
+  </configuration>
+</component>
